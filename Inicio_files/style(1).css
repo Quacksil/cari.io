@@ -1,0 +1,79 @@
+/*
+Theme Name: Betheme Child
+Theme URI: https://themes.muffingroup.com/betheme
+Author: Muffin group
+Author URI: https://muffingroup.com
+Description: Child Theme for Betheme
+Template: betheme
+Version: 1.6.2
+*/
+
+@font-face {
+    font-family: 'FuturaSTD';
+    src: url(/wp-content/themes/betheme-child/fonts/FuturaSTD/FuturaStd-Light.ttf) format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FuturaSTD';
+    src: url(/wp-content/themes/betheme-child/fonts/FuturaSTD/FuturaStd-LightOblique.ttf) format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'FuturaSTD';
+    src: url(/wp-content/themes/betheme-child/fonts/FuturaSTD/FuturaStd-Book.ttf) format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FuturaSTD';
+    src: url(/wp-content/themes/betheme-child/fonts/FuturaSTD/FuturaStd-BookOblique.ttf) format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'FuturaSTD';
+    src: url(/wp-content/themes/betheme-child/fonts/FuturaSTD/FuturaStd-Medium.ttf) format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FuturaSTD';
+    src: url(/wp-content/themes/betheme-child/fonts/FuturaSTD/FuturaStd-MediumOblique.ttf) format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'FuturaSTD';
+    src: url(/wp-content/themes/betheme-child/fonts/FuturaSTD/FuturaStd-Bold.ttf) format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FuturaSTD';
+    src: url(/wp-content/themes/betheme-child/fonts/FuturaSTD/FuturaStd-BoldOblique.ttf) format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'FuturaSTD';
+    src: url(/wp-content/themes/betheme-child/fonts/FuturaSTD/FuturaStd-Heavy.ttf) format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FuturaSTD';
+    src: url(/wp-content/themes/betheme-child/fonts/FuturaSTD/FuturaStd-HeavyOblique.ttf) format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
